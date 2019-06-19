@@ -17,3 +17,5 @@ const widgetReducer = (state = initialState, action) => {
 			return state;
 	}
 };
+
+export default widgetReducer;
